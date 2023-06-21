@@ -1,4 +1,4 @@
-# [![Crudemon](https://crudemon.vercel.app/)]
+# [Crudemon](https://crudemon.vercel.app/)
 
 Step into the captivating world of Pokémon with Crudemon, the ultimate webpage for trainers of all levels. Seamlessly manage your Pokémon collection, from creating new creatures to reading their unique stats, updating their abilities, and even bidding them farewell if needed. With Crudemon, you have the power to nurture and evolve your favorite Pokémons, creating a team that reflects your strategic prowess.
 
